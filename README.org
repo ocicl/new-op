@@ -1,10 +1,10 @@
 * new-op
 
+NEW-OP is a small library that introduces a new unified "constructor"
+operator; called "new".
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/new-op/new-op.git   |
-| commit  |   |
-| systems | new-op |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/new-op/new-op.git |
+| commit  | 8fe9d65                                              |
+| systems | new-op                                               |
+|---------+------------------------------------------------------|
