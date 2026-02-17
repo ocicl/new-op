@@ -5,6 +5,6 @@ operator; called "new".
 
 |---------+------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/new-op/new-op.git |
-| commit  | 8c9e441                                              |
+| commit  | 93e783c                                              |
 | systems | new-op                                               |
 |---------+------------------------------------------------------|
